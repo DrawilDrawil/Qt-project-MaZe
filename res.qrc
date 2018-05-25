@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images1">
+        <file>images/ground 1.png</file>
+        <file>images/wall 1.png</file>
+    </qresource>
+    <qresource prefix="/images2">
+        <file>images/ground 2.png</file>
+        <file>images/wall 2.png</file>
+    </qresource>
+    <qresource prefix="/images3">
+        <file>images/ground 3.png</file>
+        <file>images/wall 3.png</file>
+    </qresource>
+    <qresource prefix="/images4">
+        <file>images/wall 4.png</file>
+        <file>images/ground 4.png</file>
+    </qresource>
+    <qresource prefix="/fix">
+        <file>images/Bg.png</file>
+        <file>images/sprite.png</file>
+    </qresource>
+</RCC>
